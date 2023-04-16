@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: auto;
+    margin: 0 auto;
+  }
+  
+  th,
+  td {
+    padding: 0.5rem;
+    text-align: left;
+    border: 1px solid #6813c2;
+  }
+  
+  th {
+    background-color: #1988c8;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #13c262;
+  }
+  
+  th {
+    font-size: 40px; 
+    font-weight: bold;
+  }   
+  
