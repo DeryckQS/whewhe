@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wellchecker/static/css/main.69322eec.css",
+    "main.js": "/wellchecker/static/js/main.a7203a53.js",
+    "static/js/787.0f305991.chunk.js": "/wellchecker/static/js/787.0f305991.chunk.js",
+    "index.html": "/wellchecker/index.html",
+    "main.69322eec.css.map": "/wellchecker/static/css/main.69322eec.css.map",
+    "main.a7203a53.js.map": "/wellchecker/static/js/main.a7203a53.js.map",
+    "787.0f305991.chunk.js.map": "/wellchecker/static/js/787.0f305991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69322eec.css",
+    "static/js/main.a7203a53.js"
+  ]
+}
