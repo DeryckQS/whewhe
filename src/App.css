@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+/* App.css */
+/* App.css */
+
+body {
+  /* Set the gradient background */
+  background-image: linear-gradient(to right, #e84a9a, #3b11e3);
+  /* Add any other styles for the body */
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  /* Add any other styles for the body */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 600px;
+  padding: 16px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
